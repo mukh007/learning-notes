@@ -23,11 +23,17 @@
 ## Analytical skills
 
 * Describe a project or situation where you successfully demonstrated your analytical abilities.
+  * 
 * When you are faced with a problem, what do you do? Describe the steps in your problem-solving approach.
+  * Define issue, Clarify problem, RCA, DataDriven, Action Plan, Execute, Retrospect, Improve Process.
 * Give me an example of a situation when you took a risk to achieve a goal. What was the outcome?
+  * DxCore additional scope.
 * In your experience, would you say that developing and using a detailed procedure was always necessary for your job?
+  * 
 * Imagine a situation in which your one of your colleagues wants to solve a problem in a certain way, but the other colleague has a totally different approach in mind. They come to you asking for a help in deciding on the right approach. What do you do?
+  * create safe space, Data Driven, Pro & Cons and take a call, Flexible, influential, good listener, mutual understanding, Learning the gaps.
 * How do you compare and weigh pros and cons before making a decision?
+  * Brainstorm, Define Criteria, Add weights, data driven.
 
 ## Behavioral
 
@@ -36,15 +42,21 @@
 * Tell me about a time when you were faced with extremely tight deadlines. How did you handle that?
 * Give me an example of a time when you showed initiative and took the lead.
 * Give me an example of a major mistake you made. How did that happen? How did you proceed with it?
+  * EM too much in design & code driving, causing ownership issues, focus on learnings
 * Have you ever had a subordinate whose work was usually insufficient? How did you handle that situation? What happened? What was the outcome?
+  * Recognize, communicate & understand gaps, (skills/vague expectations/onboarding/personal), syncup & regular feedback, Improvement Plan, chalk out a carear plan, reassign / terminate.
 * We all make mistakes. Tell me about a situation at work you wish you’d handled differently.
+  * 
 * Give me an example of a situation when you had to work on multiple projects simultaneously. How did you prioritize?
+  * Plan, Impact, Review, Delegate, 
 
 ## Communication skills
 
 * How would you explain a complex technical problem to someone without technical expertise, who doesn't understand technical terminology? Use the term *[insert appropriate term]* as an example.
 * Please name five things about the communication within an organization that must be present so you can give your best and work most effectively?
+  * Open env, Clear and reiterated, syncup often, recognize acheivements, focus on improvements, 1v1s & Feedback
 * If you had to choose between being a good listener or a good communicator, what would be your choice? Please explain your answer.
+  * speaking is coachable, listener takes patience & empathy.
 * Tell me about the time you had to give a presentation to a group of people with no preparation? What was the main difficulty you experienced? How did you handle that?
 * Describe a situation when team members on a project you were working on disagreed with your ideas. What did you do?
 * Describe a situation where you needed to work with a client or customer who was very different from you. How was that for you? How did you approach that situation?
